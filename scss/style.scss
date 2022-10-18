@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 85vh;
+    background-image: url('../img/BG.png');
+    background-size: contain;
+    background-repeat: repeat-x;
+}
+
+#player{
+    // background-color: red;
+    background-image: url('../img/Idle\ \(1\).png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 150px;
+    height: 130px;
+    position: absolute;
+    bottom: 500px;
+}
+
+#ground{
+    position: absolute;
+    height: 100px;
+    width: 100vw;
+    background-image: url('../img/2.png');
+    bottom: 0;
+}
+
+#tree{
+    height: 250px;
+    width: 310px;
+    background-image: url('../img/Tree.png');
+    position: absolute;
+    left: 150px;
+    bottom: 100px;
+}
+
+#cactus{
+    height: 100px;
+    width: 300px;
+    background-image: url('../img/Cactus\ \(1\).png');
+    background-repeat: no-repeat;
+    position: absolute;
+    left: 450px;
+    bottom: 100px;
+}
+
+#bush{
+    height: 110px;
+    width: 400px;
+    background-image: url('../img/Bush\ \(2\).png');
+    background-repeat: no-repeat;
+    position: absolute;
+    left: 750px;
+    bottom: 100px;
+}
+
+.turn{
+    transform: rotateY(180deg);
+}
