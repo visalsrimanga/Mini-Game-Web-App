@@ -5,7 +5,7 @@
 }
 
 body {
-  height: 85vh;
+  height: 100vh;
   background-image: url("../img/BG.png");
   background-size: contain;
   background-repeat: repeat-x;
@@ -49,12 +49,13 @@ body {
 }
 
 #bush {
-  height: 110px;
-  width: 400px;
+  height: 70px;
+  width: 200px;
   background-image: url("../img/Bush (2).png");
-  background-repeat: no-repeat;
+  background-repeat: repeat-x;
+  background-repeat: space;
   position: absolute;
-  left: 750px;
+  right: 250px;
   bottom: 100px;
 }
 

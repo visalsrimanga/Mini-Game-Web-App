@@ -30,6 +30,8 @@ const animate = ()=>{
     if((player.offsetTop + player.offsetHeight)> ground.offsetTop){
         dy = 0;
         player.style.top = `${ground.offsetTop - player.offsetHeight}px`
+    } else if(player.offsetTop < 0){
+        dy = .5;
     }
 
     dy+=acceleration;
