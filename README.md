@@ -1,6 +1,6 @@
 # Mini Game Web App with JS
 
-This web application is developed using JS (JavaScript), CSS with SCSS, HTML.
+This mini-game web application is developed using JS (JavaScript), CSS with SCSS, HTML. (Without using any frameworks). Here, used display repaint function (requestAnimationFrame() in JS) to browser calls to update an animation before the next repaint and key event handlers for movements. The character in the game can move both left and right sides and can jump. (This application only works for desktops)
 
 ### Languages & Tools
 * JavaScript (JS)
@@ -15,7 +15,7 @@ This web application is developed using JS (JavaScript), CSS with SCSS, HTML.
 4. Run `sass -w scss:css` to start the sass compiler.
 5. Run `npx serve`
 
-step 3 and step 4 are optional. (when styling usign css, those steps are can be neglected)
+step 3 and step 4 are optional. Those will be needed only if you wish to develop this project. (when styling using css, those steps can be neglected)
 
 ### Play
 
@@ -32,7 +32,7 @@ step 3 and step 4 are optional. (when styling usign css, those steps are can be 
 
 ### Licence
 Copyright &copy; 2022. All Right Reserved.<br>
-This project is license under the [MIT Licence](LICENSE.txt)
+This project is licensed under the [MIT Licence](LICENSE.txt)
 
 ### Contact Details
 
