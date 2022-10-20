@@ -32,7 +32,7 @@ step 3 and step 4 are optional. (when styling usign css, those steps are can be 
 
 ### Licence
 Copyright &copy; 2022. All Right Reserved.<br>
-This project is license under the [MIT Licence](LICENCE.txt)
+This project is license under the [MIT Licence](LICENSE.txt)
 
 ### Contact Details
 
