@@ -1,6 +1,6 @@
 # Mini Game Web App with JS
 
-This mini-game web application is developed using JS (JavaScript), CSS with SCSS, HTML. (Without using any frameworks). Here, used display repaint function (requestAnimationFrame() in JS) to browser calls to update an animation before the next repaint and key event handlers for movements. The character in the game can move both left and right sides and can jump. (This application only works for desktops)
+This mini-game web application is developed using JS (JavaScript), CSS with SCSS, and HTML. (Without using any frameworks). Here, the display repaint function (requestAnimationFrame() in JS) is used to call the browser for updating an animation before the next repaint, and also key event handlers in JS were used in the movements. The game character has the ability for moving both left and right sides and also is able to do jumps when needed. (This application only works for desktops)
 
 ### Languages & Tools
 * JavaScript (JS)
@@ -32,7 +32,7 @@ step 3 and step 4 are optional. Those will be needed only if you wish to develop
 
 ### Licence
 Copyright &copy; 2022. All Right Reserved.<br>
-This project is licensed under the [MIT Licence](LICENSE.txt)
+This project is licensed under the [MIT License](LICENSE.txt)
 
 ### Contact Details
 
