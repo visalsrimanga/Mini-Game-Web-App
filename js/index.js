@@ -55,6 +55,7 @@ addEventListener('keydown',({key})=>{
         player.classList.add('turn');
         dx = -10;
     }
+    
 });
 
 
