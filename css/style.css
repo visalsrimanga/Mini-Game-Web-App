@@ -6,9 +6,9 @@
 
 body {
   height: 100vh;
-  background-image: url("../img/BG.png");
+  background-image: url("../img/BG.jpg");
   background-size: contain;
-  background-repeat: repeat-x;
+  background-repeat: repeat;
 }
 
 #player {
@@ -62,5 +62,7 @@ body {
 .turn {
   transform: rotateY(180deg);
 }
+
+/* Design crows for future inplementation */
 
 /*# sourceMappingURL=style.css.map */
