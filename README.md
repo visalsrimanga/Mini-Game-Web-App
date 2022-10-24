@@ -30,7 +30,7 @@ step 3 and step 4 are optional. Those will be needed only if you wish to develop
 ### version
 1.0.0
 
-### Licence
+### License
 Copyright &copy; 2022. All Right Reserved.<br>
 This project is licensed under the [MIT License](LICENSE.txt)
 
