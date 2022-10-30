@@ -5,8 +5,9 @@
 }
 
 body{
+    position: relative;
     height: 100vh;
-    background-image: url('../img/BG.jpg');
+    background-image: url('../img/BG.png');
     // background-image: url('../img/BG.png');
     background-size: contain;
     background-repeat: repeat
@@ -25,9 +26,9 @@ body{
 
 #ground{
     position: absolute;
-    height: 100px;
+    height: 50px;
     width: 100vw;
-    background-image: url('../img/2.png');
+    // background-image: url('../img/2.png');
     bottom: 0;
 }
 
@@ -57,8 +58,8 @@ body{
     background-repeat: repeat-x;
     background-repeat: space;
     position: absolute;
-    right: 250px;
-    bottom: 100px;
+    left: 550px;
+    bottom: 50px;
 }
 
 .turn{
